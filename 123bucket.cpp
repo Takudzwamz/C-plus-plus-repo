@@ -31,7 +31,7 @@ void Bucket_sort(int arr[], int max){
          for (int i = 0; i < max; i++){
             arr[i] = rand()%50;
             }
-            cout<<"Here are the numbers before Bucker Sort"<<endl;
+            cout<<"Here are the numbers before Bucket Sort"<<endl;
             for (int j = 0; j < max; j++){
                  cout<<arr[j];
               }
