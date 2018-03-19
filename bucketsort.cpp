@@ -66,7 +66,7 @@ int main()
 				cout << array[i] << " "<<endl;
 			}
 		
-	cout<<"Time taken to sort using bucketSort is :"<<(finishing_time-initial_time)/CLOCKS_PER_SEC<<endl;
+	cout<<"Time taken to sort using buckeTSort is :"<<(finishing_time-initial_time)/CLOCKS_PER_SEC<<endl;
 	
 return 0;
 }
